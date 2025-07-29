@@ -3,7 +3,6 @@
 ### PRIVACY POLICY  
 **Last updated July 28, 2025**
 
-This Privacy Notice for Martin Varo Rodriguez (doing business as ERCADE) ("we," "us," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:  Download and use our mobile application (ERCADE Primaria), or any other application of ours that links to this Privacy Notice.  
 Use ERCADE Primaria. ERCADE Primaria is a mobile application designed for primary school teachers to manage classroom tasks efficiently. The app allows teachers to take attendance, assign and edit grades, generate printable reports (such as report cards, attendance lists, and student statistics), and manage student, group, grade, and school data. ERCADE helps educators stay organized and save time, all from a single platform.  
 Engage with us in other related ways, including any sales, marketing, or events.
 
